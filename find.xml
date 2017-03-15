@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,11 +15,13 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.tpl</mask>
-      <mask>*.yml</mask>
       <mask>texte_*_cz.php</mask>
       <mask>texte_*_nl.php</mask>
       <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
