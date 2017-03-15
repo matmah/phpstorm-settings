@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\PHPUnit_Framework_TestCase.createMock(originalClassName)" />
+        <added pattern="\Monolog\Logger.pushHandler(handler)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

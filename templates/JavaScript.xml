@@ -1,0 +1,25 @@
+<templateSet group="JavaScript">
+  <template name="cond" value="console.log($END$);" description="cond" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="afun" value="function ($arg1$){&#10;    $END$&#10;}" description="anonym function" toReformat="false" toShortenFQNames="true">
+    <variable name="arg1" expression="" defaultValue="&quot;arg1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="nfun" value="function $name$($arg1$){&#10;    $END$&#10;}" description="named function" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="&quot;myFunction&quot;" alwaysStopAt="true" />
+    <variable name="arg1" expression="" defaultValue="&quot;arg1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cone" value="console.error($END$); // todo: diese Debugmeldung wieder entfernen" description="cond" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

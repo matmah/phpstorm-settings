@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="trc" value="try {&#10;&#9;$DO_SOMETHING$&#10;} catch(Exception $e) {&#10;&#9;$END$&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="DO_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

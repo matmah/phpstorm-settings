@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ec7f419-3341-44d0-9843-265ad69835d8" name="localhost" url="http://localhost">
+        <fileTransfer host="localhost" port="2222" rootFolder="/srv/apache2/www/intern" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

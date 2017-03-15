@@ -1,0 +1,29 @@
+<templateSet group="PHP">
+  <template name="ecol" value="echo &quot;$END$&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="eco" value="&#10;$str_debugecho = $END$;&#10;echo &quot;&lt;pre&gt; ##### DEBUG ##### \n ## DATEI:........ &quot;.__FILE__.&quot; \n ## KLASSE:....... &quot;.__CLASS__.&quot; \n ## FUNKTION:..... &quot;.__FUNCTION__.&quot; (Zeile  &quot;.__LINE__.&quot;) \n ## Echo: \n&quot;.print_r($str_debugecho, true).&quot;&lt;/pre&gt;&quot;;&#10;exit;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="vdoc" value="/* @var $TYPE$ $VAR$ */" description="vdoc" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d" value="d($VAR$);$END$" description="d" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ddd" value="ddd($VAR$);$END$" description="ddd" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
