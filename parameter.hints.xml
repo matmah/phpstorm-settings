@@ -1,9 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="PHP" />
       <blacklist language="PHP">
         <added pattern="\PHPUnit_Framework_TestCase.createMock(originalClassName)" />
         <added pattern="\Monolog\Logger.pushHandler(handler)" />
+        <added pattern="\Symfony\Component\Serializer\SerializerInterface.serialize(data,format,context)" />
+        <added pattern="\Eikona\Mammut\ConnectorBundle\Mammut.sendModificationNotification(location,payload)" />
       </blacklist>
     </blacklists>
   </component>
