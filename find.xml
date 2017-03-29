@@ -14,11 +14,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.tpl</mask>
       <mask>texte_*_cz.php</mask>
       <mask>texte_*_nl.php</mask>
       <mask>*</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.yml</mask>
       <mask>*.y</mask>
@@ -28,6 +26,8 @@
       <mask>*.pü</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.tpl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
