@@ -18,8 +18,6 @@
       <mask>*.püh</mask>
       <mask>*.pü</mask>
       <mask>*.p</mask>
-      <mask>*.tpl</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.y</mask>
@@ -30,6 +28,9 @@
       <mask>php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.tpl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
