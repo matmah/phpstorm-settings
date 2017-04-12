@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="2ec7f419-3341-44d0-9843-265ad69835d8" name="localhost" url="http://localhost">
+      <webServer id="2ec7f419-3341-44d0-9843-265ad69835d8" name="localhost" url="http://miwe_internet.localhost">
         <fileTransfer host="localhost" port="2222" rootFolder="/srv/apache2/www/intern" accessType="SFTP">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
