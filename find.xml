@@ -18,18 +18,18 @@
       <mask>*.püh</mask>
       <mask>*.pü</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.y</mask>
       <mask>*.xml</mask>
       <mask>*.ml</mask>
-      <mask>*.yml</mask>
       <mask>p</mask>
       <mask>php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.tpl</mask>
+      <mask>*.j</mask>
+      <mask>*.y</mask>
+      <mask>*.yml</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
