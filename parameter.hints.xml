@@ -7,6 +7,8 @@
         <added pattern="\Symfony\Component\Serializer\SerializerInterface.serialize(data,format,context)" />
         <added pattern="\Eikona\Mammut\ConnectorBundle\Mammut.sendModificationNotification(location,payload)" />
         <added pattern="\Symfony\Bundle\FrameworkBundle\Controller\Controller.generateUrl(route,parameters,referenceType)" />
+        <added pattern="\class_template.get_instance(str_template_name,str_abschnitt_name)" />
+        <added pattern="\class_template.set_inhalt(str_platzhalter_name,str_wert)" />
       </blacklist>
     </blacklists>
   </component>
