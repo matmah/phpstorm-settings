@@ -10,6 +10,7 @@
         <added pattern="\class_template.get_instance(str_template_name,str_abschnitt_name)" />
         <added pattern="\class_template.set_inhalt(str_platzhalter_name,str_wert)" />
         <added pattern="\class_database.get_result(str_sql,str_key)" />
+        <added pattern="\class_database.set_sql(str_sql,bit_insert_id)" />
       </blacklist>
     </blacklists>
   </component>
