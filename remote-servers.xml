@@ -4,6 +4,14 @@
       <configuration>
         <option name="apiUrl" value="https://192.168.99.100:2376" />
         <option name="certificatesPath" value="C:\Users\m.mahler\.docker\machine\machines\docker" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="D:\htdocs" />
+              <option name="virtualMachinePath" value="/d/htdocs" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
