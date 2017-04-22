@@ -1,8 +1,10 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="vm" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="C:\Users\m.mahler\.docker\machine\machines\vm" />
+        <option name="composeExecPath" value="C:\Program Files\Docker\Docker\resources\bin\docker-compose.exe" />
       </configuration>
     </remote-server>
   </component>
