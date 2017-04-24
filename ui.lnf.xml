@@ -3,6 +3,7 @@
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
   </component>
 </application>
