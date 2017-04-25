@@ -6,8 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
       <mask>texte_*_cz.php</mask>
       <mask>texte_*_nl.php</mask>
       <mask>*</mask>
@@ -36,6 +34,8 @@
       <mask>routing</mask>
       <mask>routing.</mask>
       <mask>routing.yml</mask>
+      <mask>me.yml</mask>
+      <mask>media.yml</mask>
     </recentFileMasks>
   </component>
 </application>
