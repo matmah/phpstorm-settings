@@ -14,6 +14,7 @@
         <added pattern="\get_url_system(str_extern,mixed_seite,array_daten,bit_rewrite,array_insert_alias,bit_nofollow,bit_ermitteln_navid)" />
         <added pattern="\class_database.set_update(int_id,str_id_feld_name,str_tabelle,array_daten,array_felder,str_where)" />
         <added pattern="\Symfony\Component\Form\FormBuilderInterface.add(child,type,options)" />
+        <added pattern="\Symfony\Component\Form\FormConfigBuilderInterface.addEventListener(eventName,listener,priority)" />
       </blacklist>
     </blacklists>
   </component>
