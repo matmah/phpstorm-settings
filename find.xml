@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="routing.yml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>texte_*_cz.php</mask>
@@ -35,6 +32,11 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>rou</mask>
+      <mask>rout</mask>
+      <mask>routing</mask>
+      <mask>routing.</mask>
+      <mask>routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
