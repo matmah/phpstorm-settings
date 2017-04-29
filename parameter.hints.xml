@@ -15,6 +15,8 @@
         <added pattern="\class_database.set_update(int_id,str_id_feld_name,str_tabelle,array_daten,array_felder,str_where)" />
         <added pattern="\Symfony\Component\Form\FormBuilderInterface.add(child,type,options)" />
         <added pattern="\Symfony\Component\Form\FormConfigBuilderInterface.addEventListener(eventName,listener,priority)" />
+        <added pattern="\curl_setopt(ch,option,value)" />
+        <added pattern="\str_replace(search,replace,subject,count)" />
       </blacklist>
     </blacklists>
   </component>
