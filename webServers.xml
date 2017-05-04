@@ -9,6 +9,14 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="afea3eb0-26b8-4003-a456-6d16b05a85cb" name="albina-baumann.de" url="http://albina-baumann.de">
+        <fileTransfer host="albina-baumann.de" port="21" rootFolder="/wordpress">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
