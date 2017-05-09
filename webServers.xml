@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f011d3be-6a87-4c9c-964a-690f4b829f1e" name="geekhub.eu" url="http://geekhub.eu">
+        <fileTransfer host="geekhub.eu" port="22" privateKey="C:\Users\m.mahler\.ssh\id_rsa" rootFolder="/var/www/vhosts/geekhub.eu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
