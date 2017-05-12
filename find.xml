@@ -4,21 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>texte_*_nl.php</mask>
-      <mask>*</mask>
-      <mask>*.pühp</mask>
-      <mask>*.püh</mask>
-      <mask>*.pü</mask>
-      <mask>*.p</mask>
-      <mask>*.xml</mask>
-      <mask>*.ml</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*.t</mask>
-      <mask>*.tpl</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -32,8 +17,23 @@
       <mask>media.yml</mask>
       <mask>.yml</mask>
       <mask>*.yml</mask>
+      <mask>*cz.php</mask>
+      <mask>*c.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*e.php</mask>
+      <mask>*en.php</mask>
+      <mask>t*en.php</mask>
+      <mask>te*en.php</mask>
+      <mask>tex*en.php</mask>
+      <mask>text*en.php</mask>
+      <mask>texte*Ü*en.php</mask>
+      <mask>texte**en.php</mask>
+      <mask>texte*en.php</mask>
+      <mask>texte*n.php</mask>
+      <mask>texte*.php</mask>
+      <mask>texte*c.php</mask>
+      <mask>texte*cz.php</mask>
     </recentFileMasks>
   </component>
 </application>
