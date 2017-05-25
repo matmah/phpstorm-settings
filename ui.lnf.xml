@@ -5,5 +5,6 @@
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
