@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.y</mask>
       <mask>rou</mask>
@@ -13,7 +14,6 @@
       <mask>me.yml</mask>
       <mask>media.yml</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
       <mask>*cz.php</mask>
       <mask>*c.php</mask>
       <mask>*e.php</mask>
@@ -34,6 +34,7 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
