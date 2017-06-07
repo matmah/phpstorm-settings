@@ -12,8 +12,8 @@
       <interpreter home="D:\php\7.1\php.exe" id="59226296-65e4-4daf-9ae3-d58e3ef91750" name="7.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\php\5.6\php.exe" id="415c5cb5-80b4-4295-921a-7c214d13f139" name="5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\php\7.0\php.exe" id="93d135b0-c69f-450f-9ed0-c68b3f6461dd" name="7.0" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://root@localhost:2222/opt/php/7.0/bin/php" id="b5bf0e5d-d8f0-4836-b151-171fffca0109" name="Remote 7.0" debugger_id="php.debugger.XDebug" debugger_extension="/opt/php/7.0/lib/extensions/xdebug.so">
-        <remote_data HOST="localhost" PORT="2222" USERNAME="root" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/opt/php/7.0/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="sftp://root@localhost:2222/opt/php/7.0/bin/php" id="b5bf0e5d-d8f0-4836-b151-171fffca0109" name="Remote 7.0" debugger_id="php.debugger.XDebug" debugger_extension="/opt/php/7.0/lib/extensions/xdebug.so">
+        <remote_data WEB_SERVER_CONFIG_ID="2ec7f419-3341-44d0-9843-265ad69835d8" WEB_SERVER_CONFIG_NAME="localhost" WEB_SERVER_CREDENTIALS_ID="sftp://root@localhost:2222" INTERPRETER_PATH="/opt/php/7.0/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="sftp://root@localhost:2222/opt/php/5.2/bin/php" id="8ed53a28-7d14-4875-a5e9-c1a695e1d5a9" name="Remote 5.2" debugger_id="php.debugger.XDebug">
         <remote_data WEB_SERVER_CONFIG_ID="2ec7f419-3341-44d0-9843-265ad69835d8" WEB_SERVER_CONFIG_NAME="localhost" WEB_SERVER_CREDENTIALS_ID="sftp://root@localhost:2222" INTERPRETER_PATH="/opt/php/5.2/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
