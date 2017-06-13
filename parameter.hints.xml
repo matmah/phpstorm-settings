@@ -17,6 +17,7 @@
         <added pattern="\Symfony\Component\Form\FormConfigBuilderInterface.addEventListener(eventName,listener,priority)" />
         <added pattern="\curl_setopt(ch,option,value)" />
         <added pattern="\str_replace(search,replace,subject,count)" />
+        <added pattern="\_debug\import\ImportSilverCertCommand.map(className,data,dependencies)" />
       </blacklist>
     </blacklists>
   </component>
