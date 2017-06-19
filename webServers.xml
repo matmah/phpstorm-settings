@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="efdccc7b-991b-4ddc-af95-8e71cd4f6874" name="archimedes" url="http://archimedes:8083/fhem/ftui/">
+        <fileTransfer host="archimedes" port="22" rootFolder="/opt/fhem/www/tablet" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
