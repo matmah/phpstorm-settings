@@ -18,6 +18,7 @@
         <added pattern="\curl_setopt(ch,option,value)" />
         <added pattern="\str_replace(search,replace,subject,count)" />
         <added pattern="\_debug\import\ImportSilverCertCommand.map(className,data,dependencies)" />
+        <added pattern="\strpos(haystack,needle,offset)" />
       </blacklist>
     </blacklists>
   </component>
