@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
+    <ignoreAction name="Database/Run query in console" />
   </component>
 </application>
