@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="html5" type="HTML" />
       <mapping pattern="event_listener" type="PLAIN_TEXT" />
       <mapping pattern="продукция" type="PLAIN_TEXT" />
       <mapping pattern="produkte" type="PLAIN_TEXT" />
