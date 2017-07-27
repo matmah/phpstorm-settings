@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7cb49107-8858-4913-afe5-3be1565d5977" name="archimedes /opt/fhem" url="http://archimedes">
+        <fileTransfer host="archimedes" port="22" rootFolder="/opt/fhem" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
