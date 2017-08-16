@@ -19,6 +19,7 @@
         <added pattern="\str_replace(search,replace,subject,count)" />
         <added pattern="\_debug\import\ImportSilverCertCommand.map(className,data,dependencies)" />
         <added pattern="\strpos(haystack,needle,offset)" />
+        <added pattern="\preg_replace(pattern,replacement,subject,limit,count)" />
       </blacklist>
     </blacklists>
   </component>
