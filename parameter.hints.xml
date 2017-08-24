@@ -20,6 +20,7 @@
         <added pattern="\_debug\import\ImportSilverCertCommand.map(className,data,dependencies)" />
         <added pattern="\strpos(haystack,needle,offset)" />
         <added pattern="\preg_replace(pattern,replacement,subject,limit,count)" />
+        <added pattern="\set_verweis_aliase(obj_server,int_modul_id,str_system_klasse,str_klasse_pfad)" />
       </blacklist>
     </blacklists>
   </component>
