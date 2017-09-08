@@ -26,6 +26,12 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" second-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
