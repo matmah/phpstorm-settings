@@ -2,11 +2,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="2ec7f419-3341-44d0-9843-265ad69835d8" name="localhost" url="http://localhost">
-        <fileTransfer host="localhost" port="2222" rootFolder="/srv/apache2/www/intern" accessType="SFTP">
+        <fileTransfer host="localhost" port="22" rootFolder="/srv/apache2/www/intern" accessType="SFTP">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="2222" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="afea3eb0-26b8-4003-a456-6d16b05a85cb" name="albina-baumann.de" url="http://albina-baumann.de">
