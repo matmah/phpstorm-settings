@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="html5" type="HTML" />
-      <mapping pattern="event_listener" type="PLAIN_TEXT" />
+      <mapping pattern="iso_collection_*.html5" type="PHP" />
       <mapping pattern="продукция" type="PLAIN_TEXT" />
+      <mapping pattern="event_listener" type="PLAIN_TEXT" />
       <mapping pattern="produkte" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="eps" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="full" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
