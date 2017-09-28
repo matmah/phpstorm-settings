@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="html5" type="HTML" />
-      <mapping pattern="iso_collection_*.html5" type="PHP" />
+      <mapping pattern="iso_*.html5" type="PHP" />
       <mapping pattern="продукция" type="PLAIN_TEXT" />
       <mapping pattern="event_listener" type="PLAIN_TEXT" />
       <mapping pattern="produkte" type="PLAIN_TEXT" />
