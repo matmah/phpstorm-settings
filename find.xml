@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html5" />
     <recentFileMasks>
       <mask>*cz.php</mask>
       <mask>*c.php</mask>
@@ -27,14 +27,14 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.html5</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.html5</mask>
     </recentFileMasks>
   </component>
 </application>
