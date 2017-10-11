@@ -1,0 +1,12 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="SC-157" value="feature/SC-157" />
+        <entry key="SC-158" value="feature/SC-158" />
+        <entry key="SC-161" value="feature/SC-161" />
+        <entry key="SC-171" value="feature/SC-171" />
+      </map>
+    </option>
+  </component>
+</application>
