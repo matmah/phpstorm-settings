@@ -24,7 +24,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.ph</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*</mask>
@@ -38,6 +37,7 @@
       <mask>*.</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
