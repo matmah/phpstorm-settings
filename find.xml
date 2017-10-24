@@ -3,24 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <recentFileMasks>
-      <mask>*en.php</mask>
-      <mask>t*en.php</mask>
-      <mask>te*en.php</mask>
-      <mask>tex*en.php</mask>
-      <mask>text*en.php</mask>
-      <mask>texte*Ü*en.php</mask>
-      <mask>texte**en.php</mask>
-      <mask>texte*en.php</mask>
-      <mask>texte*n.php</mask>
-      <mask>texte*.php</mask>
-      <mask>texte*c.php</mask>
-      <mask>texte*cz.php</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html5</mask>
@@ -36,6 +24,21 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>d</mask>
+      <mask>de</mask>
+      <mask>de/</mask>
+      <mask>de/*</mask>
+      <mask>de/*,</mask>
+      <mask>de/*,x</mask>
+      <mask>de/*,xl</mask>
+      <mask>de/*,xlf</mask>
+      <mask>de/*xlf</mask>
+      <mask>de/*.xlf</mask>
+      <mask>de\/*.xlf</mask>
+      <mask>de\*.xlf</mask>
+      <mask>de*.xlf</mask>
+      <mask>d*.xlf</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
