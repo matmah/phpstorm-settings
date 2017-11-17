@@ -2,6 +2,11 @@
   <component name="GitflowState">
     <option name="taskBranches">
       <map>
+        <entry key="EIMEDSPIEL-1" value="feature/EIMEDSPIEL-1" />
+        <entry key="EIMEDSPIEL-2" value="feature/EIMEDSPIEL-2" />
+        <entry key="EIMEDSPIEL-3" value="feature/EIMEDSPIEL-3" />
+        <entry key="LOCAL-00078" value="feature/EIMEDSPIEL-1" />
+        <entry key="LOCAL-00080" value="feature/FOO" />
         <entry key="SC-157" value="feature/SC-157" />
         <entry key="SC-158" value="feature/SC-158" />
         <entry key="SC-161" value="feature/SC-161" />
