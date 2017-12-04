@@ -4,6 +4,7 @@
       <mapping ext="html5" type="HTML" />
       <mapping pattern="iso_*.html5" type="PHP" />
       <mapping pattern="rsts_*.html5" type="PHP" />
+      <mapping pattern="mod_navigation.html5" type="PHP" />
       <mapping pattern="nav_default.html5" type="PHP" />
       <mapping pattern="продукция" type="PLAIN_TEXT" />
       <mapping pattern="event_listener" type="PLAIN_TEXT" />
