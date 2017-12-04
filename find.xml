@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>de/*</mask>
-      <mask>de/*,</mask>
       <mask>de/*,x</mask>
       <mask>de/*,xl</mask>
       <mask>de/*,xlf</mask>
@@ -19,14 +17,10 @@
       <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*.ph</mask>
-      <mask>*</mask>
       <mask>json</mask>
       <mask>*json</mask>
       <mask>*.json</mask>
       <mask>*.p</mask>
-      <mask>*.yml</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*tl_.php</mask>
       <mask>*tl.php</mask>
       <mask>*t.php</mask>
@@ -34,6 +28,12 @@
       <mask>*.php</mask>
       <mask>tl*.php</mask>
       <mask>tl_*.php</mask>
+      <mask>*</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
