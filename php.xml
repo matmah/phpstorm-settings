@@ -1944,4 +1944,9 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="smartFunctionParametersCompletion" value="true" />
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="37961c5a-2c99-432d-a246-e4c5fc86d717" custom_loader_path="/srv/apache2/www/intern/atc-rebel-rabbit/app/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
+  </component>
 </application>
