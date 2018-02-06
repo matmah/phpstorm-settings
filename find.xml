@@ -3,16 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>de*.xlf</mask>
-      <mask>d*.xlf</mask>
-      <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
       <mask>*.ph</mask>
       <mask>json</mask>
       <mask>*json</mask>
-      <mask>*.json</mask>
       <mask>*.p</mask>
       <mask>*tl_.php</mask>
       <mask>*tl.php</mask>
@@ -34,6 +31,10 @@
       <mask>*.html.twig</mask>
       <mask>*..twig</mask>
       <mask>*.twig</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
