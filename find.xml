@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xl</mask>
-      <mask>*.x</mask>
-      <mask>*.ph</mask>
       <mask>json</mask>
       <mask>*json</mask>
       <mask>*.p</mask>
@@ -32,8 +29,11 @@
       <mask>*.twig</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
