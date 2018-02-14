@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <mapping ext="html5" type="HTML" />
       <mapping pattern="iso_*.html5" type="PHP" />
       <mapping pattern="rsts_*.html5" type="PHP" />
