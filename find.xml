@@ -1,17 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>json</mask>
       <mask>*json</mask>
-      <mask>*.p</mask>
       <mask>*tl_.php</mask>
       <mask>*tl.php</mask>
       <mask>*t.php</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
       <mask>tl*.php</mask>
       <mask>tl_*.php</mask>
       <mask>*</mask>
@@ -19,7 +16,6 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
@@ -31,9 +27,14 @@
       <mask>*.jso</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.x</mask>
-      <mask>*.xl</mask>
       <mask>*.xlf</mask>
+      <mask>*.xl</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
