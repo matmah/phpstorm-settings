@@ -3,12 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Pass.php" />
     <recentFileMasks>
-      <mask>*json</mask>
-      <mask>*tl_.php</mask>
-      <mask>*tl.php</mask>
-      <mask>*t.php</mask>
       <mask>tl*.php</mask>
       <mask>tl_*.php</mask>
       <mask>*</mask>
@@ -35,6 +31,10 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*P.php</mask>
+      <mask>*Pa.php</mask>
+      <mask>*Pas.php</mask>
+      <mask>*Pass.php</mask>
     </recentFileMasks>
   </component>
 </application>
