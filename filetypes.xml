@@ -6,13 +6,14 @@
       <mapping pattern="rsts_*.html5" type="PHP" />
       <mapping pattern="mod_navigation.html5" type="PHP" />
       <mapping pattern="nav_default.html5" type="PHP" />
-      <mapping pattern="mysql/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="import" type="PLAIN_TEXT" />
-      <mapping pattern="event_listener" type="PLAIN_TEXT" />
-      <mapping pattern="продукция" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="produkte" type="PLAIN_TEXT" />
+      <mapping pattern="event_listener" type="PLAIN_TEXT" />
+      <mapping pattern="import" type="PLAIN_TEXT" />
+      <mapping pattern="продукция" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="mysql/Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="gplot" type="PLAIN_TEXT" />
