@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>tl*.php</mask>
-      <mask>tl_*.php</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.h</mask>
@@ -34,6 +29,11 @@
       <mask>*Pa.php</mask>
       <mask>*Pas.php</mask>
       <mask>*Pass.php</mask>
+      <mask>d.php</mask>
+      <mask>dc.php</mask>
+      <mask>dca.php</mask>
+      <mask>dca/.php</mask>
+      <mask>dca/*.php</mask>
     </recentFileMasks>
   </component>
 </application>
