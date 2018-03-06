@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -15,7 +16,6 @@
       <mask>*.twig</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
@@ -34,6 +34,7 @@
       <mask>dca/*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
