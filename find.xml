@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -19,9 +20,7 @@
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*P.php</mask>
       <mask>*Pa.php</mask>
       <mask>*Pas.php</mask>
@@ -31,9 +30,11 @@
       <mask>dca.php</mask>
       <mask>dca/.php</mask>
       <mask>dca/*.php</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
