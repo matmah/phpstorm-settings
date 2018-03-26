@@ -3,8 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
@@ -12,7 +12,6 @@
       <mask>*.html.t</mask>
       <mask>*.html.twig</mask>
       <mask>*..twig</mask>
-      <mask>*.twig</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.j</mask>
@@ -34,6 +33,8 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
