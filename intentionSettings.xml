@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
     <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="PHP/Inject language using PHPDoc" />
   </component>
 </application>
